@@ -1,5 +1,5 @@
 # Car-Sales-Analysis
-## Overview
+## Overview 
 The car sales Data Analysis project aims to provide comprehensive insights into vehicle sales trends and patterns reveal Top Selling Models and conduct Profitability Analysis. This project involves the collection, cleaning, analysis and visualization of car sales data to help stakeholders make infomred decisions. This project show cases data analytics techniques and tools to derive meaniful conclusions from raw data.
 ### Tools
 - SQL- Data Collection, Data Cleaning
