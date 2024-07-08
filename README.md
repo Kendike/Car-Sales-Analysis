@@ -42,7 +42,7 @@ Using Tableau, the dataset was sorted and analyzed to identify:
 - 3 Bar Chats were used to Visualize most profitable vehicles and top selling vehicles and area chart for best selling month.
 ### Data Visualization
 <img width="560" alt="Car_Sales" src="https://github.com/Kendike/Car-Sales-Analysis/assets/123019944/0d90df5c-c768-4fef-9fcb-6561ca4cfe98">
-for more detailed visuals - (https://public.tableau.com/app/profile/kenneth7569/viz/CarSaleAnalysis_17204519568500/Dashboard1?publish=yes)
+(https://public.tableau.com/app/profile/kenneth7569/viz/CarSaleAnalysis_17204519568500/Dashboard1?publish=yes)
 
 ### Conclusion
 Based on the comprehensive analysis of car sales data, several key insights have been uncovered:
