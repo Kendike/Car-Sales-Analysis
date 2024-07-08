@@ -39,8 +39,9 @@ Using Tableau, the dataset was sorted and analyzed to identify:
   - Best Selling Cars: Identified the top-selling car models based on sales volume.
   - Most Profitable Vehicles: Determined the models yielding the highest average profit per unit sold.
   - Best Performing Month: Analyzed sales performance across months to identify the peak sales month.
-- 3 Bar Chats were used to Visualize most profit vehicles and top selling vehicles and area chart for best selling month.
+- 3 Bar Chats were used to Visualize most profitable vehicles and top selling vehicles and area chart for best selling month.
 ### Data Visualization
+<img width="560" alt="Car_Sales" src="https://github.com/Kendike/Car-Sales-Analysis/assets/123019944/0d90df5c-c768-4fef-9fcb-6561ca4cfe98">
 
 ### Conclusion
 Based on the comprehensive analysis of car sales data, several key insights have been uncovered:
