@@ -49,7 +49,6 @@ Based on the comprehensive analysis of car sales data, several key insights have
 - Best Performing Month: September 2023 was identified as the best-selling month, indicating a seasonal peak in consumer demand. This insight suggests potential opportunities for targeted marketing campaigns or inventory management strategies during peak months to maximize sales and profitability.
 
 - Key Performance Indicators (KPIs)
-  - Average Car Sales: The average monthly car sales were approximately 500 units.
   - Average Profit: The average profit per car sold was $600.
   - Number of Cars Sold: A total of 2849 cars were sold during the analyzed period.
   - Total Profit: The total profit generated from car sales amounted to $1,758,133.79
